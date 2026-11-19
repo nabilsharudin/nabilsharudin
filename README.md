@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering undergraduate at Universiti Teknologi Malaysia (UTM)** focused on building secure, reliable, and user-centred software products.
 
-I enjoy working across the full development lifecycle—from frontend interfaces and backend APIs to databases, testing, security, AI integrations, and deployment.
+I enjoy (sideeye) working across the full development lifecycle—from frontend interfaces and backend APIs to databases, testing, security, AI integrations, and deployment.
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +31,7 @@ A map-based crop-rotation and agricultural decision-support platform for Malaysi
 - Integrates NASA climate and Earth-observation data
 - Field mapping and boundary creation using MapLibre
 - Scenario comparison, Gemini integration, and user onboarding
+- **Live Demo:** [musim-5osq.vercel.app](https://musim-5osq.vercel.app/field)
 
 ### [ProActAI – Executive AI Analytics Platform](https://github.com/izztiathrh/ProActAI_tencent)
 
@@ -39,6 +40,7 @@ An executive analytics platform designed for early organisational-risk detection
 - AI Copilot, KPI analytics, what-if simulations, and RAG-enabled chatbot
 - Responsive dashboard and onboarding interfaces
 - Finalist – Tencent Cloud × UTM AI CAN DO IT Hackathon 2026
+- **Live Demo:** [pro-act-ai-two.vercel.app](https://pro-act-ai-two.vercel.app/)
 
 ## 🌱 What I'm Working On
 
@@ -51,5 +53,3 @@ An executive analytics platform designed for early organisational-risk detection
 
 - **LinkedIn:** [linkedin.com/in/nabilsharudin115](https://www.linkedin.com/in/nabilsharudin115/)
 - **Email:** [nabilsharudin15@gmail.com](mailto:nabilsharudin15@gmail.com)
-
-I'm open to **software engineering, full-stack, backend, and AI application internships in Kuala Lumpur**.
